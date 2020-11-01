@@ -23,6 +23,13 @@ function getCellElements (currentRowElement) {
 // YOUR CODE GOES HERE
 
 
+replaceAllButton.addEventListener("click" function() {
+    let find = findInput.value;
+    let replace = replaceAllButton.value;
+
+    
+})
+
 // One last thing: dedicate very careful attention to using variables and
 // naming them accurately.
 // And when you change the value you are assigning to a variable, don't
